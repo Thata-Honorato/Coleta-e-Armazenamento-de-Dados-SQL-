@@ -1,5 +1,4 @@
-# Sprint 7 – Análise Exploratória de Dados e Teste de Hipóteses
-
+# Sprint 7 –Coleta-de-Armazenamento-de-Dados-SQL
 ## Descrição do Projeto
 
 Neste projeto, atuo como analista de dados de empresas de táxi em Chicago. Meu objetivo é realizar uma análise exploratória dos dados, identificar padrões e testar hipóteses sobre o comportamento das corridas, de forma a gerar insights confiáveis para a tomada de decisão.
@@ -60,4 +59,6 @@ Meu projeto será avaliado com base nos seguintes pontos:
 - A clareza e relevância das conclusões.  
 - Comentários detalhados em cada passo do projeto.
 
+Todos os notebooks originais estão hospedados na plataforma TripleTen e não podem ser alterados.
 
+Este repositório documenta o projeto e o aprendizado adquirido.
